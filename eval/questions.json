@@ -1,0 +1,256 @@
+[
+  {
+    "question": "C'est quoi un curseur ?",
+    "contient": [
+      "objet de base de données"
+    ]
+  },
+  {
+    "question": "Quelles sont les étapes du cycle de vie d'un curseur ?",
+    "contient": [
+      "quatre étapes fondamentales"
+    ]
+  },
+  {
+    "question": "C'est quoi un curseur explicite ?",
+    "contient": [
+      "déclaré manuellement"
+    ]
+  },
+  {
+    "question": "Quelle est la différence entre CLOSE et DEALLOCATE ?",
+    "contient": [
+      "supprime complètement le curseur"
+    ]
+  },
+  {
+    "question": "Quand se déclenche DUP_VAL_ON_INDEX ?",
+    "contient": [
+      "doublon dans une colonne unique"
+    ]
+  },
+  {
+    "question": "Pourquoi éviter un bloc WHEN OTHERS vide ?",
+    "contient": [
+      "avaliser silencieusement"
+    ]
+  },
+  {
+    "question": "À quoi sert le bloc finally ?",
+    "contient": [
+      "exécuté systématiquement"
+    ]
+  },
+  {
+    "question": "Quelle est la différence entre exceptions vérifiées et non vérifiées ?",
+    "contient": [
+      "doivent obligatoirement être gérées"
+    ]
+  },
+  {
+    "question": "Quels sont les types d'exceptions ?",
+    "contient": [
+      "exceptions vérifiées",
+      "exceptions non vérifiées",
+      "outofmemoryerror"
+    ]
+  },
+  {
+    "question": "C'est quoi un SGBD ?",
+    "contient": [
+      "ensemble de logiciels"
+    ]
+  },
+  {
+    "question": "Qui a introduit le modèle relationnel et en quelle année ?",
+    "contient": [
+      "codd en 1970"
+    ]
+  },
+  {
+    "question": "Quels sont les avantages du modèle relationnel ?",
+    "contient": [
+      "simplicité de présentation"
+    ]
+  },
+  {
+    "question": "À quoi sert un index en SQL ?",
+    "contient": [
+      "améliorer les temps de réponses"
+    ]
+  },
+  {
+    "question": "Comment vider une table sans la supprimer ?",
+    "contient": [
+      "truncate table"
+    ]
+  },
+  {
+    "question": "C'est quoi une transaction ?",
+    "contient": [
+      "unité logique de traitement"
+    ]
+  },
+  {
+    "question": "Quelle est la différence entre COMMIT et ROLLBACK ?",
+    "contient": [
+      "termine une transaction avec échec"
+    ]
+  },
+  {
+    "question": "À quoi sert la commande GRANT ?",
+    "contient": [
+      "passer des droits"
+    ]
+  },
+  {
+    "question": "C'est quoi une vue en SQL ?",
+    "contient": [
+      "table virtuelle"
+    ]
+  },
+  {
+    "question": "Quel est l'intérêt des rôles ?",
+    "contient": [
+      "regroupement de privilèges"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'un trigger et comment se déclenche-t-il ?",
+    "contient": [
+      "appeler un trigger"
+    ]
+  },
+  {
+    "question": "Quelles instructions permettent de gérer les permissions dans SQL Server ?",
+    "contient": [
+      "grant, deny, revoke"
+    ]
+  },
+  {
+    "question": "Quelles sont les trois fonctions d'un SGBD ?",
+    "contient": [
+      "langage de définition des données",
+      "langage de manipulation des données",
+      "langage de contrôle des données"
+    ]
+  },
+  {
+    "question": "C'est quoi Hadoop ?",
+    "contient": [
+      "framework open source"
+    ]
+  },
+  {
+    "question": "Le Secondary NameNode est-il un NameNode de secours ?",
+    "contient": [
+      "checkpoints périodiques"
+    ]
+  },
+  {
+    "question": "Pourquoi le NameNode est-il un point unique de défaillance et comment le résoudre ?",
+    "contient": [
+      "point unique de défaillance"
+    ]
+  },
+  {
+    "question": "Quel est le rôle de ZooKeeper dans la haute disponibilité de HDFS ?",
+    "contient": [
+      "split-brain"
+    ]
+  },
+  {
+    "question": "Quelle est la taille d'un bloc HDFS par défaut ?",
+    "contient": [
+      "128 mb"
+    ]
+  },
+  {
+    "question": "Que fait le ResourceManager dans YARN ?",
+    "contient": [
+      "alloue les conteneurs"
+    ]
+  },
+  {
+    "question": "Pourquoi YARN a-t-il été introduit dans Hadoop 2.0 ?",
+    "contient": [
+      "goulot",
+      "jobtracker"
+    ]
+  },
+  {
+    "question": "Que se passe-t-il entre la phase Map et la phase Reduce ?",
+    "contient": [
+      "regroupement des valeurs par clé"
+    ]
+  },
+  {
+    "question": "Quelles sont les limites de MapReduce ?",
+    "contient": [
+      "overhead i/o disque"
+    ]
+  },
+  {
+    "question": "C'est quoi Hive ?",
+    "contient": [
+      "hiveql"
+    ]
+  },
+  {
+    "question": "Quelles sont les étapes d'exécution d'une application YARN ?",
+    "contient": [
+      "soumet une application",
+      "libère les ressources et se termine"
+    ]
+  },
+  {
+    "question": "Quels sont les composants principaux de YARN ?",
+    "contient": [
+      "resourcemanager (rm)",
+      "nodemanager (nm)",
+      "applicationmaster (am)"
+    ]
+  },
+  {
+    "question": "Quels sont les 5 V du Big Data ?",
+    "contient": [
+      "volume",
+      "vélocité",
+      "variété",
+      "véracité",
+      "valeur"
+    ]
+  },
+  {
+    "question": "C'est qui le président du Togo ?",
+    "contient": []
+  },
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "contient": []
+  },
+  {
+    "question": "Comment faire du riz au gras ?",
+    "contient": []
+  },
+  {
+    "question": "Qui a gagné la Coupe du monde 2018 ?",
+    "contient": []
+  },
+  {
+    "question": "Quel temps fait-il à Lomé aujourd'hui ?",
+    "contient": []
+  },
+  {
+    "question": "Donne-moi une recette de gâteau au chocolat.",
+    "contient": []
+  },
+  {
+    "question": "Qui a écrit Les Misérables ?",
+    "contient": []
+  },
+  {
+    "question": "Quel est le prix du bitcoin ?",
+    "contient": []
+  }
+]
